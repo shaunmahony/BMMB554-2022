@@ -4,7 +4,8 @@ tags: BMMB554
 
 # Syllabus
 
-[![hackmd-github-sync-badge](https://hackmd.io/phkU5NkZRs2P2aavzL53SA/badge)](https://hackmd.io/phkU5NkZRs2P2aavzL53SA)
+[![hackmd-github-sync-badge](https://hackmd.io/CJL5xZR6SbW2-0K_f-mSMg/badge)](https://hackmd.io/CJL5xZR6SbW2-0K_f-mSMg)
+
 
 
 # BMMB554 | Introduction to Data Driven Life Sciences | Spring 2022
@@ -12,7 +13,7 @@ tags: BMMB554
 
 ## Place and Time
 
-Virtual using [Zoom](https://psu.zoom.us/j/432588759?pwd=M2NWR2ZtbEs4ZFEwZVByeU9JaFdQQT09) | Tuesday, Thursday [10:35am - 11:50am EST](https://www.timeanddate.com/)
+218 Thomas Building | Tuesday, Thursday 10:35am - 11:50am EST
 
 
 ## Instructor
@@ -22,22 +23,16 @@ Virtual using [Zoom](https://psu.zoom.us/j/432588759?pwd=M2NWR2ZtbEs4ZFEwZVByeU9
 404 Sth Frear Bldg
 Office hours by appointment only
 
-:::warning
-When contacting instructor use the above e-mail and include "BMMB554" in the subject line (simply click on e-mail address).
-:::
 
 ## Course logistics
 
-This course **does not use** Canvas. Canvas is a convoluted system with too many features and undefined purpose. Instead, this course is served from [GitHub](https://github.com/nekrut/BMMB554/wiki).
+This course is served from [GitHub](https://github.com/shaunmahony/BMMB554-2022/wiki).
+Canvas link:
 
-
-:::warning
-**Do not contact me through Canvas!** I will not check my Inbox there. Instead, contact me via [email](mailto:aun1@psu.edu?Subject=BMMB554) as described above.
-:::
 
 ## Grading
 
-Attendance (33.3%) + Homework (33.3%) + Final Project (33.3%)  &#8776; 100%
+Participation (20%) + Homework (40%) + Final Project (40%)  &#8776; 100%
 
 ## Topics
 
