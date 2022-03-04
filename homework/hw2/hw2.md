@@ -3,8 +3,8 @@
 **Due:** end of day, Friday, Mar 18th.
 
 **How to submit?**
+* Any written answers should be submitted via the Canvas assignment page.
 * Share your Google colab workbooks with sam77@psu.edu (make sure you are sharing access with me and not just sending me a link)
-* If the questions ask for written descriptions or the conclusions you draw from the analyses, write them in text blocks within your colab notebook(s).
 
 
 ## Question 1 (2 points)
@@ -46,3 +46,5 @@ def rotate(strg):
 Then you need to sort the list of rotations and extract the last characters in each string.
 
 To reverse a BWT, you need to first create your L-F mapping. Then iterate through the positions of the BWT as defined by the L-F mapping, starting from the end-of-genome character.
+
+If you find writing the Python script too challenging, you can alternatively draw out the BWT construction and reversal steps by hand. Use the same style as we presented in class. If you follow this option, the maximum grade possible for Question 3 will be 5 points. 
